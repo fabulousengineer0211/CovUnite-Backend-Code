@@ -1,0 +1,23 @@
+<html>
+<body>
+
+<p>Pls navigate as per requirement.</p>
+
+<form>
+  <label for="Donor Type">Choose type of Donor Required:</label>
+  <select name="Donor Type" id="Donor Type">
+    <option value="blood">Blood</option>
+    <option value="oxygen">oxygen</option>
+    <option value="plasma">plasma</option>
+    <option value="bed">bed</option>
+  </select>
+  <br><br>
+  <a href="file:///C:/Users/login/AppData/Local/Temp/Rar$EXa20900.30042/Sheet1.html" download>
+<button>Click here to download data</button>
+</a>
+</form>
+
+<p>Click the "Submit" button and you will be seeing the relevant information.</p>
+
+</body>
+</html>
